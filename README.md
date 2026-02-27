@@ -8,7 +8,7 @@ A modern, responsive, and SEO-friendly educational institute website built using
 
 ## 🚀 Live Demo
 
-🔗 https://teal-vacherin-404d9a.netlify.app/contact
+🔗 https://teal-vacherin-404d9a.netlify.app/
 
 ---
 
