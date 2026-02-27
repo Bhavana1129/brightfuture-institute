@@ -15,7 +15,7 @@ A modern, responsive, and SEO-friendly educational institute website built using
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-![Home Page](./src/assets/home.jpg)
+![Home Page](./src/assets/Home.jpg)
 
 ### 📚 Programs Page
 ![Programs Page](./src/assets/programs.jpg)
