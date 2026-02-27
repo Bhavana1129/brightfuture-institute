@@ -1,16 +1,76 @@
-# React + Vite
+# 🎓 BrightFuture Institute Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and SEO-friendly educational institute website built using React and Tailwind CSS.
 
-Currently, two official plugins are available:
+> Designed to simulate a real-world institute website with admission workflow and payment integration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔗 [View Live Website](Add-Netlify-Link-Here)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home Page](./src/assets/home.jpg)
+
+### 📚 Programs Page
+![Programs Page](./src/assets/programs.jpg)
+
+### 📝 Admission Form
+![Admission Page](./src/assets/admission.jpg)
+
+### 💳 Payment Integration (Demo Mode)
+![Payment Page](./src/assets/payment.jpg)
+
+### 📞 Contact Page
+![Contact Page](./src/assets/contact.jpg)
+
+---
+
+## ✨ Features
+
+- ✅ Multi-page layout (Home, Programs, Admission, Contact)
+- ✅ Fully Responsive Design (Mobile + Tablet + Desktop)
+- ✅ SEO Optimized Structure
+- ✅ Admission Form with EmailJS Integration
+- ✅ Demo Payment using Razorpay Test Mode
+- ✅ Clean and Modern UI using Tailwind CSS
+- ✅ Form Validation
+- ✅ Realistic Institute Branding
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React
+- 🎨 Tailwind CSS
+- 📧 EmailJS
+- 💳 Razorpay (Test Mode)
+- 🌍 Netlify (Deployment)
+
+---
+
+## 📁 Project Structure
+
+```bash
+brightfuture-institute
+├── public
+├── src
+│   ├── components
+│   ├── pages
+│   ├── assets
+│   └── App.jsx
+├── package.json
+├── tailwind.config.js
+└── README.md
+
+
+## ⚙️ Installation & Setup
+
+1️⃣ Clone the repository
+
+git clone https://github.com/Bhavana1129/brightfuture-institute.git
