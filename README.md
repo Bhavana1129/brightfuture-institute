@@ -1,25 +1,76 @@
-# BrightFuture Institute Website
+# 🎓 BrightFuture Institute Website
 
-A responsive and SEO-friendly mini website built for an educational institution.
+A modern, responsive, and SEO-friendly educational institute website built using React and Tailwind CSS.
 
-## Features
-- Multi-page layout (Home, Programs, Admission, Contact)
-- Responsive design
-- Admission form with EmailJS integration
-- Demo payment using Razorpay test mode
-- SEO optimized
+> Designed to simulate a real-world institute website with admission workflow and payment integration.
 
-## Tech Stack
-React, Tailwind CSS, EmailJS, Razorpay, Netlify
+---
 
-## Live Demo
-[Add Netlify Link]
+## 🚀 Live Demo
 
-## Setup
-npm install
-npm run dev
+🔗 [View Live Website](Add-Netlify-Link-Here)
 
-## Future Improvements
-- Admin dashboard
-- Student portal
-- Backend integration
+---
+
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+![Home Page](./src/assets/home.jpg)
+
+### 📚 Programs Page
+![Programs Page](./src/assets/programs.jpg)
+
+### 📝 Admission Form
+![Admission Page](./src/assets/admission.jpg)
+
+### 💳 Payment Integration (Demo Mode)
+![Payment Page](./src/assets/payment.jpg)
+
+### 📞 Contact Page
+![Contact Page](./src/assets/contact.jpg)
+
+---
+
+## ✨ Features
+
+- ✅ Multi-page layout (Home, Programs, Admission, Contact)
+- ✅ Fully Responsive Design (Mobile + Tablet + Desktop)
+- ✅ SEO Optimized Structure
+- ✅ Admission Form with EmailJS Integration
+- ✅ Demo Payment using Razorpay Test Mode
+- ✅ Clean and Modern UI using Tailwind CSS
+- ✅ Form Validation
+- ✅ Realistic Institute Branding
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React
+- 🎨 Tailwind CSS
+- 📧 EmailJS
+- 💳 Razorpay (Test Mode)
+- 🌍 Netlify (Deployment)
+
+---
+
+## 📁 Project Structure
+
+```bash
+brightfuture-institute
+├── public
+├── src
+│   ├── components
+│   ├── pages
+│   ├── assets
+│   └── App.jsx
+├── package.json
+├── tailwind.config.js
+└── README.md
+
+
+## ⚙️ Installation & Setup
+
+1️⃣ Clone the repository
+
+git clone https://github.com/Bhavana1129/brightfuture-institute.git
